@@ -1,6 +1,6 @@
 package operator;
 
-public class Compare_operator {
+public class CompareOperator {
 
 	public static void main(String[] args) {
 		String str1 = "abc";

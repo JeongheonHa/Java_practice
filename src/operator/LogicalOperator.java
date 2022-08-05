@@ -2,7 +2,7 @@ package operator;
 
 import java.util.*;
 
-public class Logical_operator {
+public class LogicalOperator {
 
 	public static void main(String[] args) {
 		
